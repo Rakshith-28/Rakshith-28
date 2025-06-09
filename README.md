@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rakshith-28/Rakshith-28/blob/main/coolbackgrounds_particles_stellar_V2.gif?raw=true" width="100%" alt="Dev Banner Background" />
+  <img src="(https://github.com/Rakshith-28/Rakshith-28/blob/main/Screenshot%202025-06-09%20194435.png)?raw=true" width="100%" alt="Dev Banner Background" />
 </p>
 
 <!-- Dev Banner with Dark Aesthetic -->
