@@ -1,9 +1,12 @@
+<!-- Banner or Hero GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Rakshith+LK;Full-Stack+Developer+%F0%9F%9B%A0%EF%B8%8F;CS+Student+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://github.com/Rakshith-28/Rakshith-28/blob/main/assets/dev-banner.gif" alt="coding" width="80%" />
 </p>
 
+<h1 align="center">Hey 👋 I'm Rakshith LK</h1>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/abstract-tech-banner.svg" alt="Abstract Tech Banner" width="80%" />
+  <i>Aspiring UPSC Officer | Full-Stack Dev | Hackathon Finalist | Passionate CS Student</i>
 </p>
 
 ---
