@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOwGxeg6sVqIv2IHS/giphy.gif" width="250" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&width=800&lines=Hi,+I'm+Rakshith+LK.;Full-Stack+Developer.;CS+Student+&+Tech+Enthusiast." alt="Typing SVG" />
 </p>
+
 
 
 ---
