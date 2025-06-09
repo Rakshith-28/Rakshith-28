@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/banner-gradient.png" alt="Professional Banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/main/assets/header.png" alt="Code Banner" width="80%" />
 </p>
 
 ---
