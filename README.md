@@ -1,12 +1,11 @@
-<!-- Hero Banner -->
-<!-- Dev Banner with Dark Theme -->
+<!-- Dev Banner with Dark Aesthetic -->
 <p align="center" style="background-color:#000000; padding: 20px;">
   <img src="https://github.com/Rakshith-28/Rakshith-28/blob/main/assets/dev-banner.gif" alt="Dev Banner" width="95%" />
 </p>
 
-<!-- Typing Animation - Bigger + Double Shade Inspired -->
+<!-- Typing Animation with Green/Purple Coding Font Look -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=FF5F6D&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!+I'm+Rakshith+LK+👋;Full-Stack+Developer+%7C+CS+Undergrad;UPSC+%26+KAS+Aspirant;Hackathon+Enthusiast+%F0%9F%92%BB;I+build+clean+and+practical+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&vCenter=true&width=1000&height=100&center=true&lines=Hey+there!+I'm+Rakshith+LK+👋;Full-Stack+Developer+%7C+CS+Undergrad;UPSC+%26+KAS+Aspirant;Hackathon+Enthusiast+%F0%9F%92%BB;I+build+clean+and+practical+solutions" alt="Typing SVG - Green" />
 </p>
 
 ---
