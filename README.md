@@ -5,7 +5,7 @@
 
 <!-- Typing Animation with Green/Purple Coding Font Look -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&vCenter=true&width=1000&height=100&center=true&lines=Hey+there!+I'm+Rakshith+LK+👋;Full-Stack+Developer+%7C+CS+Undergrad;UPSC+%26+KAS+Aspirant;Hackathon+Enthusiast+%F0%9F%92%BB;I+build+clean+and+practical+solutions" alt="Typing SVG - Green" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D00FF&vCenter=true&width=1000&height=100&center=true&lines=Hey+there!+I'm+Rakshith+LK+👋;Full-Stack+Developer+%7C+CS+Undergrad;I+build+clean+and+practical+solutions" alt="Typing SVG - Purple" />
 </p>
 
 ---
