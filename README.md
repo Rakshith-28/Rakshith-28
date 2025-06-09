@@ -7,10 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Rakshith+LK+👋;Full-Stack+Developer+%7C+CS+Undergrad;UPSC+%26+KAS+Aspirant;Hackathon+Enthusiast+%F0%9F%92%BB;I+build+clean+and+practical+solutions" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Rakshith LK</h1>
-<p align="center"><i>🚀 Passionate Dev | 🎓 CS Undergrad | 🧠 UPSC Aspirant | ⚡ Hackathon Finalist</i></p>
-
 ---
 
 ## 💼 About Me
