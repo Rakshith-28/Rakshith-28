@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/main/assets/header.png" alt="Code Banner" width="80%" />
+  <img src="https://user-images.githubusercontent.com/yourusername/abstract-tech-banner.svg" alt="Abstract Tech Banner" width="80%" />
 </p>
 
 ---
