@@ -57,11 +57,11 @@
 
 ### 💬 Loan Advisor Web App
 > Multilingual chatbot, voice support, blockchain-backed verification  
-Tech Stack: React, Tailwind CSS, Node.js, REST API
+**Tech Stack:** React, Tailwind CSS, Node.js, REST API
 
 ### 🧠 AI-Based Exam Generator
 > Teachers can create, format, and download printable question papers  
-Tech Stack: Spring Boot, MSSQL, HTML/CSS Frontend
+**Tech Stack:** Spring Boot, MSSQL, HTML/CSS Frontend
 
 ### ✨ More Projects
 - ✅ Student Dashboard to view/download question papers
@@ -72,19 +72,18 @@ Tech Stack: Spring Boot, MSSQL, HTML/CSS Frontend
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshithlk&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakshith-28&show_icons=true&theme=radical" alt="GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithlk&theme=radical" alt="Streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshith-28&theme=radical" alt="Streak stats"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 - 📧 Email: rakshithlk28@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/rakshith-lk-ba89b22b0/])
-- 🐙 [GitHub]([https://github.com/Rakshith-28])
+- 💼 [LinkedIn](https://www.linkedin.com/in/rakshith-lk-ba89b22b0/)
+- 🐙 [GitHub](https://github.com/Rakshith-28)
 
 ---
 
 _“Consistency is what transforms average into excellence.”_
-
