@@ -46,9 +46,10 @@
 
 ---
 
-### 🎯 Other Cool Projects
-- 🎓 Student Dashboard to download question papers
-- 👨‍🏫 Teacher Dashboard for MCQ, short & long questions
+### ✈️ Flight Search System
+> 🔍 Dynamic flight search with animations and smart filters  
+**Stack:** React, CSS Animations, REST APIs  
+🚀 Built for a hackathon project with smooth UI/UX and advanced search capabilities
 
 ---
 
