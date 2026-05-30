@@ -9,13 +9,13 @@
 
 <!-- Typing Animation with Green/Purple Coding Font Look -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=9D00FF&vCenter=true&width=1000&height=120&center=true&lines=Hey+there!+I'm+Rakshith+LK+👋;Full-Stack+Developer;CS+Undergrad;I+build+practical+solutions" alt="Typing SVG - White"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=1000&height=120&center=true&lines=Hey+there!+I'm+Rakshith+LK+👋;Full-Stack+Developer;CS+Undergrad;I+build+practical+solutions" alt="Typing SVG - White"/>
 </p>
 
 ---
 
 ## 💼 About Me
-- 🎓 B.E. in Computer Science
+- 🎓 B.Tech. in Computer Science
 - 🧠 Learning Backend, System Design
 - 💬 Ask me about anything: `Web Dev` • `Java` • `SQL` • `React` • `Node.js`
 - 🚀 Building projects with React, Spring Boot, Tailwind & MSSQL
