@@ -1,87 +1,128 @@
 <p align="center">
-  <img src="https://github.com/Rakshith-28/Rakshith-28/blob/main/Screenshot%202025-06-09%20194435.png?raw=true" width="100%" alt="Dev Banner Background" />
-</p>
-
-<!-- Dev Banner with Dark Aesthetic -->
-<p align="center" style="background-color:#000000; padding: 20px;">
-  <img src="https://github.com/Rakshith-28/Rakshith-28/blob/main/assets/dev-banner.gif" alt="Dev Banner" width="95%" />
-</p>
-
-<!-- Typing Animation with Green/Purple Coding Font Look -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=1000&height=120&center=true&lines=Hey+there!+I'm+Rakshith+LK+👋;Full-Stack+Developer;CS+Undergrad;I+build+practical+solutions" alt="Typing SVG - White"/>
-</p>
-
----
-
-## 💼 About Me
-- 🎓 B.Tech. in Computer Science
-- 🧠 Learning Backend, System Design
-- 💬 Ask me about anything: `Web Dev` • `Java` • `SQL` • `React` • `Node.js`
-- 🚀 Building projects with React, Spring Boot, Tailwind & MSSQL
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,nodejs,spring,mysql,mongodb,git,github,postman,vscode" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥉 **3rd Place** – Tech Rangers 2.0 Hackathon (UpGrad x Nitte)
-- ✅ Built **Multilingual Conversational Loan Advisor System**
-- ✅ Designed **AI-Powered Exam Generator** with Spring Boot + SQL Server
-
----
-
-## 💡 Highlight Projects
-
-### 💬 Loan Advisor Web App
-> 🗣️ Multilingual chatbot • 🎙️ Voice support • 🔐 Blockchain verification  
-**Stack:** React, Tailwind CSS, Node.js, REST API
-
----
-
-### 🧠 AI-Based Exam Generator
-> 🧾 Teachers create & download printable question papers  
-**Stack:** Spring Boot, MSSQL, HTML/CSS Frontend
-
----
-
-### ✈️ Flight Search System
-> 🔍 Dynamic flight search with animations and smart filters  
-**Stack:** React, CSS Animations, REST APIs  
-🚀 Built for a hackathon project with smooth UI/UX and advanced search capabilities
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rakshith-28&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Rakshith-28&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2800&pause=1000&color=FFFFFF&vCenter=true&width=960&height=100&center=true&lines=Rakshith+L+K;Full-Stack+Developer;CS+Undergrad+%40+NMAM+Nitte" alt="Rakshith LK" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakshith-28&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/rakshith-lk-ba89b22b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:rakshithlk28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rakshith-28">
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## About
 
-<p align="center">
-  <a href="mailto:rakshithlk28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rakshith-lk-ba89b22b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Rakshith-28"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+B.E. Computer Science undergraduate at **NMAM Institute of Technology, Nitte** , specialising in full-stack development. I build web platforms end-to-end — from database schema to deployed UI — with a focus on clean architecture and practical product thinking.
+
+Currently freelancing and shipping side projects while exploring backend systems and AI integration.
+
+---
+
+## Tech Stack
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
+**Backend & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,postgresql,mysql,mongodb" />
+
+**DevOps & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+
+---
+
+## Projects
+
+### Forza Team &nbsp;·&nbsp; `2025–Present`
+Multi-tenant sports club management web platform — handles teams, rosters, schedules, and role-based access across organisations. Mobile app in active development.
+
+`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma` `Better Auth` `Tailwind` `Vercel`
+
+---
+
+### LoanSage &nbsp;·&nbsp; `March 2025`
+Multilingual conversational loan advisor with voice support and blockchain-backed verification. Built at Great Bengaluru Hackathon 2025 — **Top 150 out of 1,500 teams**.
+
+`React` `Tailwind CSS` `Node.js` `REST API`
+
+---
+
+### CareerAI &nbsp;·&nbsp; `June 2026`
+AI-powered career copilot that handles resume parsing, job matching, and interview prep. Built with a 9-person team; contributed as Core AI & Intelligence member.
+
+`Python` `FastAPI` `PostgreSQL` `FAISS` `Gemini API`
+
+---
+
+### KarmaProps &nbsp;·&nbsp; `2026`
+Full-stack AI communication platform for a property management company — an LLM agent that auto-generates contextual SMS replies across tenant, prospect, owner, and vendor interactions, with human-in-the-loop approval workflows. Includes a WhatsApp-style messaging dashboard with real-time DoorLoop API sync.
+
+`Next.js` `Prisma` `PostgreSQL` `Groq AI` `REST APIs`
+
+---
+
+
+## Certifications
+
+- **AWS Certified AI Practitioner** — Amazon Web Services
+- **Pandas** — Kaggle
+- **Microsoft Azure Learning** — Microsoft
+- **Networking Basics** — Cisco
+
+---
+
+## Achievements
+
+- **3rd Place** — Tech Rangers 2.0 Hackathon (UpGrad × Nitte)
+- **Top 150 / 1,500** — Great Bengaluru Hackathon 2025
+
+---
+
+## Currently Learning
+
+- System design patterns & distributed systems
+- Deeper backend with Go / Rust (exploring)
+- Vector databases & production-grade AI pipelines
+
+---
+
+## GitHub Activity
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rakshith-28&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rakshith-28&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakshith-28&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <em>“Consistency is what transforms average into excellence.”</em>
+  <sub>Consistency is what transforms average into excellence.</sub>
 </p>
