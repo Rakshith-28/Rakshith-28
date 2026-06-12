@@ -1,128 +1,140 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2800&pause=1000&color=FFFFFF&vCenter=true&width=960&height=100&center=true&lines=Rakshith+L+K;Full-Stack+Developer;CS+Undergrad+%40+NMAM+Nitte" alt="Rakshith LK" />
+<!-- HEADER -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2600&pause=900&color=FFFFFF&vCenter=true&width=900&height=90&center=true&lines=Hey%2C+I'm+Rakshith+L+K+%F0%9F%91%8B;Full-Stack+Developer;CS+Undergrad+%40+NMAM+Nitte;I+build+practical%2C+scalable+things" alt="Rakshith LK" />
+
+<p>
+  <a href="https://www.linkedin.com/in/rakshith-lk-ba89b22b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:rakshithlk28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/Rakshith-28"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2ea44f?style=flat-square" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rakshith-lk-ba89b22b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:rakshithlk28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Rakshith-28">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square" />
-</p>
+</div>
+
 
 ---
 
-## About
+<!-- ABOUT -->
+<div align="center">
 
-B.E. Computer Science undergraduate at **NMAM Institute of Technology, Nitte** , specialising in full-stack development. I build web platforms end-to-end — from database schema to deployed UI — with a focus on clean architecture and practical product thinking.
+![about](https://img.shields.io/badge/──────────────%20ABOUT%20──────────────-0d1117?style=flat-square)
 
-Currently freelancing and shipping side projects while exploring backend systems and AI integration.
+</div>
 
----
-
-## Tech Stack
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-
-**Backend & Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,postgresql,mysql,mongodb" />
-
-**DevOps & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+B.E. Computer Science undergraduate at **NMAM Institute of Technology, Nitte**, specialising in full-stack development. I build web platforms end-to-end — from database schema to deployed UI — with a focus on clean architecture and practical product thinking. Currently freelancing and shipping side projects while exploring backend systems and AI integration.
 
 ---
 
-## Projects
+<!-- TECH STACK -->
+<div align="center">
 
-### Forza Team &nbsp;·&nbsp; `2025–Present`
-Multi-tenant sports club management web platform — handles teams, rosters, schedules, and role-based access across organisations. Mobile app in active development.
+![tech](https://img.shields.io/badge/──────────────%20TECH%20STACK%20──────────────-0d1117?style=flat-square)
 
-`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma` `Better Auth` `Tailwind` `Vercel`
+<br/>
 
----
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,tailwind,html,css,nodejs" />
 
-### LoanSage &nbsp;·&nbsp; `March 2025`
-Multilingual conversational loan advisor with voice support and blockchain-backed verification. Built at Great Bengaluru Hackathon 2025 — **Top 150 out of 1,500 teams**.
+<img src="https://skillicons.dev/icons?i=spring,fastapi,postgresql,mysql,mongodb,docker,git,github,postman,vscode" />
 
-`React` `Tailwind CSS` `Node.js` `REST API`
-
----
-
-### CareerAI &nbsp;·&nbsp; `June 2026`
-AI-powered career copilot that handles resume parsing, job matching, and interview prep. Built with a 9-person team; contributed as Core AI & Intelligence member.
-
-`Python` `FastAPI` `PostgreSQL` `FAISS` `Gemini API`
+</div>
 
 ---
 
-### KarmaProps &nbsp;·&nbsp; `2026`
-Full-stack AI communication platform for a property management company — an LLM agent that auto-generates contextual SMS replies across tenant, prospect, owner, and vendor interactions, with human-in-the-loop approval workflows. Includes a WhatsApp-style messaging dashboard with real-time DoorLoop API sync.
+<!-- PROJECTS -->
+<div align="center">
 
-`Next.js` `Prisma` `PostgreSQL` `Groq AI` `REST APIs`
+![projects](https://img.shields.io/badge/──────────────%20PROJECTS%20──────────────-0d1117?style=flat-square)
 
----
+</div>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## Certifications
+#### Forza Team &nbsp;`2025–Present`
+Multi-tenant sports club management web platform — teams, rosters, schedules, and RBAC across organisations. Mobile app in active development.
 
-- **AWS Certified AI Practitioner** — Amazon Web Services
-- **Pandas** — Kaggle
-- **Microsoft Azure Learning** — Microsoft
-- **Networking Basics** — Cisco
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
-## Achievements
+#### CareerAI &nbsp;`June 2026`
+AI-powered career copilot — resume parsing, job matching, interview prep. Core AI & Intelligence member on a 9-person team.
 
-- **3rd Place** — Tech Rangers 2.0 Hackathon (UpGrad × Nitte)
-- **Top 150 / 1,500** — Great Bengaluru Hackathon 2025
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Currently Learning
+#### LoanSage &nbsp;`March 2025`
+Multilingual conversational loan advisor with voice support and blockchain verification. **Top 150 / 1,500** at Great Bengaluru Hackathon 2025.
 
-- System design patterns & distributed systems
-- Deeper backend with Go / Rust (exploring)
-- Vector databases & production-grade AI pipelines
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
-## GitHub Activity
+#### KarmaProps &nbsp;`2026`
+Full-stack AI SMS platform for property management — LLM agent auto-generates contextual replies with human-in-the-loop approval and a WhatsApp-style dashboard.
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rakshith-28&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rakshith-28&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakshith-28&theme=radical" />
-    </td>
-  </tr>
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 ---
 
-<p align="center">
+<!-- CERTIFICATIONS -->
+<div align="center">
+
+![cert](https://img.shields.io/badge/──────────────%20CERTIFICATIONS%20──────────────-0d1117?style=flat-square)
+
+<br/>
+
+![aws](https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+&nbsp;
+![kaggle](https://img.shields.io/badge/Pandas%20%7C%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+<br/>
+
+![azure](https://img.shields.io/badge/Azure%20Learning%20%7C%20Microsoft-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+&nbsp;
+![cisco](https://img.shields.io/badge/Networking%20Basics%20%7C%20Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+<!-- STATS + GRAPH -->
+<div align="center">
+
+<table>
+<tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rakshith-28&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rakshith-28&theme=radical&hide_border=true" />
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakshith-28&theme=radical" />
+
+</div>
+
+---
+
+<div align="center">
   <sub>Consistency is what transforms average into excellence.</sub>
-</p>
+</div>
