@@ -1,0 +1,46 @@
+<svg width="100%" viewBox="0 0 880 180" role="img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Rakshith LK Header</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050510"/>
+    <stop offset="100%" stop-color="#080818"/>
+  </linearGradient>
+  <radialGradient id="g1" cx="25%" cy="60%" r="50%">
+    <stop offset="0%" stop-color="#1e3a8a" stop-opacity="0.6"/>
+    <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g2" cx="78%" cy="40%" r="50%">
+    <stop offset="0%" stop-color="#2e1065" stop-opacity="0.6"/>
+    <stop offset="100%" stop-color="#2e1065" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g3" cx="50%" cy="100%" r="40%">
+    <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#1d4ed8" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="880" height="180" fill="url(#bg)"/>
+<rect width="880" height="180" fill="url(#g1)"/>
+<rect width="880" height="180" fill="url(#g2)"/>
+<rect width="880" height="180" fill="url(#g3)"/>
+<circle cx="55" cy="35" r="1.2" fill="#818cf8" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="820" cy="50" r="1.4" fill="#60a5fa" opacity="0.7"><animate attributeName="opacity" values="0.7;0.15;0.7" dur="5s" repeatCount="indefinite" begin="1s"/></circle>
+<circle cx="180" cy="155" r="1.0" fill="#a5b4fc" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.5s" repeatCount="indefinite" begin="0.5s"/></circle>
+<circle cx="700" cy="150" r="1.3" fill="#818cf8" opacity="0.65"><animate attributeName="opacity" values="0.65;0.1;0.65" dur="6s" repeatCount="indefinite" begin="2s"/></circle>
+<circle cx="440" cy="20" r="1.5" fill="#60a5fa" opacity="0.8"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="4.5s" repeatCount="indefinite" begin="1.5s"/></circle>
+<circle cx="100" cy="110" r="1.1" fill="#818cf8" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="7s" repeatCount="indefinite" begin="3s"/></circle>
+<circle cx="780" cy="140" r="0.9" fill="#60a5fa" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.8s" repeatCount="indefinite" begin="1.2s"/></circle>
+<!-- Open to Work top right -->
+<rect x="748" y="12" width="116" height="22" rx="11" fill="#052e16" stroke="#22c55e" stroke-width="0.8"/>
+<circle cx="762" cy="23" r="4" fill="#22c55e" opacity="0.9"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2s" repeatCount="indefinite"/></circle>
+<text x="826" y="27" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#86efac">Open to Work</text>
+<!-- Typing animation baked in -->
+<image href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=900&color=FFFFFF&vCenter=true&width=880&height=80&center=true&lines=Hey%2C+I'm+Rakshith+L+K+%F0%9F%91%8B;Full-Stack+Developer;CS+Undergrad+%40+NMAM+Nitte;I+build+practical%2C+scalable+things" x="0" y="30" width="880" height="80"/>
+<!-- Social badges centered -->
+<rect x="310" y="128" width="80" height="22" rx="4" fill="#0f172a" stroke="#3b82f6" stroke-width="0.8"/>
+<text x="350" y="143" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#60a5fa">LinkedIn</text>
+<rect x="402" y="128" width="66" height="22" rx="4" fill="#0f172a" stroke="#ef4444" stroke-width="0.8"/>
+<text x="435" y="143" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#fca5a5">Gmail</text>
+<rect x="480" y="128" width="66" height="22" rx="4" fill="#0f172a" stroke="#6b7280" stroke-width="0.8"/>
+<text x="513" y="143" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#d1d5db">GitHub</text>
+<line x1="0" y1="179" x2="880" y2="179" stroke="#1e3a8a" stroke-width="1" opacity="0.5"/>
+</svg>
