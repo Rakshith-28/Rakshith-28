@@ -21,9 +21,13 @@
 <!-- ABOUT -->
 <div align="center">
 
-![about](https://img.shields.io/badge/──────────────%20ABOUT%20──────────────-0d1117?style=flat-square)
-
+![abo<!-- ABOUT -->
+<div align="center">
+<img src="./about.svg" width="100%"/>
 </div>
+
+---<img width="300" height="71" alt="about" src="https://github.com/user-attachments/assets/028f02a7-97d7-4e0a-879b-14224bf5719b" />
+
 
 B.E. Computer Science undergraduate at **NMAM Institute of Technology, Nitte**, specialising in full-stack development. I build web platforms end-to-end — from database schema to deployed UI — with a focus on clean architecture and practical product thinking. Currently freelancing and shipping side projects while exploring backend systems and AI integration.
 
