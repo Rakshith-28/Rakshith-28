@@ -1,12 +1,10 @@
 <!-- HEADER -->
+<div align="center">
 <img src="./header_new1.svg" width="100%"/>
 
-
-
----
 <!-- ABOUT -->
-<div align="center">
-<img src="./about.svg" width="100%"/>
+
+<img src="./about.svg" width="100%" align="center"/>
 <div align="center">
   <a href="https://www.linkedin.com/in/rakshith-lk-ba89b22b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
