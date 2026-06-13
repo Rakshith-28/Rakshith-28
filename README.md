@@ -1,26 +1,22 @@
 <!-- HEADER -->
-<div align="center">
+<img src="./header_new1.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2600&pause=900&color=FFFFFF&vCenter=true&width=900&height=90&center=true&lines=Hey%2C+I'm+Rakshith+L+K+%F0%9F%91%8B;Full-Stack+Developer;CS+Undergrad+%40+NMAM+Nitte;I+build+practical%2C+scalable+things" alt="Rakshith LK" />
-
-<p>
-  <a href="https://www.linkedin.com/in/rakshith-lk-ba89b22b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:rakshithlk28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/Rakshith-28"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2ea44f?style=flat-square" />
-</p>
-
-</div>
 
 
 ---
 <!-- ABOUT -->
 <div align="center">
 <img src="./about.svg" width="100%"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rakshith-lk-ba89b22b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:rakshithlk28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/Rakshith-28"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
+</div>
+
+---
 
 
 <!-- TECH STACK -->
